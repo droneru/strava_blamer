@@ -1,2 +1,2 @@
 # strava_blamer
-AWS Lambda function to rename default runs on Strava
+CLI tool (Go) that renames default runs and swims on Strava based on workout content
